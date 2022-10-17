@@ -107,7 +107,8 @@
 * [Curso em Vídeo - Python Mundo 2](https://www.youtube.com/playlist?list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye) - Gustavo Guanabara (screencast)
 * [Curso em Vídeo - Python Mundo 3](https://www.youtube.com/playlist?list=PLHz_AreHm4dksnH2jVTIVNviIMBVYyFnH) - Gustavo Guanabara (screencast)
 * [Programação Dinâmica - Introdução à Python por Projetos](https://www.youtube.com/playlist?list=PL5TJqBvpXQv6AEfVymby32MinHdxZA-8J) (screencast)
-
+*[Curos de Python usando modulo TKinter](https://www.youtube.com/playlist?list=PLesCEcYj003ShHnUT83gQEH6KtG8uysUE)- eXcript (screencast)
+ 
 
 ### TypeScript
 
